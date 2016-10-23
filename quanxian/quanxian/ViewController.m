@@ -19,7 +19,7 @@
     [super viewDidLoad];
     for (NSString *string in [UIFont familyNames]) {
         NSLog(@"%@",string);
-        
+        //test
         [self creatimg];
     }
     
